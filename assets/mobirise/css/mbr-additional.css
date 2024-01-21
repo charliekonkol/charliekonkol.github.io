@@ -1104,6 +1104,31 @@ a {
   background: #000;
   color: #fff;
 }
+.cid-u1YboUXPsi {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u1YboUXPsi .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u1YboUXPsi .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u1YboUXPsi .video-wrapper iframe {
+  width: 100%;
+}
+.cid-u1YboUXPsi .mbr-section-title,
+.cid-u1YboUXPsi .mbr-section-subtitle,
+.cid-u1YboUXPsi .mbr-text {
+  text-align: center;
+}
 .cid-sFF3CYc3p7 {
   padding-top: 30px;
   padding-bottom: 30px;
