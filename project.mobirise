@@ -33,7 +33,7 @@
       "presetSourceTheme": "mobirise5"
     },
     "path": "@PROJECT_PATH@",
-    "name": "Dad",
+    "name": "Charles B Konkol Sr.",
     "versionFirst": "5.9.13",
     "siteFonts": [],
     "imageResize": true,
@@ -42,7 +42,7 @@
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "sfenciktes",
+    "mbrsiteDomain": "oxt7gsgqoy",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -57,7 +57,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Celebration of Life Program for Charles B Konkol Sr.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -671,7 +671,8 @@
       "settings": {
         "title": "Program",
         "order": "1",
-        "meta_descr": "Celebration of Life Program for Charles B Konkol Sr."
+        "meta_descr": "Celebration of Life Program for Charles B Konkol Sr.",
+        "socialSharingUrl": ""
       },
       "components": [
         {
