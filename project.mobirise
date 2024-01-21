@@ -56,7 +56,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home - Charles B Konkol Sr.",
         "meta_descr": "Celebration of Life Program for Charles B Konkol Sr.",
         "header_custom": "",
         "footer_custom": "",
@@ -669,7 +669,7 @@
     },
     "program.html": {
       "settings": {
-        "title": "Program",
+        "title": "Program - Charles B Konkol Sr.",
         "order": "1",
         "meta_descr": "Celebration of Life Program for Charles B Konkol Sr.",
         "socialSharingUrl": ""
