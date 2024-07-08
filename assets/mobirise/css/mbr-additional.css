@@ -1054,6 +1054,31 @@ a {
 .cid-u1ZbifJEA8 .mbr-text {
   text-align: center;
 }
+.cid-uhYyTt2U02 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-uhYyTt2U02 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uhYyTt2U02 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uhYyTt2U02 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-uhYyTt2U02 .mbr-section-title,
+.cid-uhYyTt2U02 .mbr-section-subtitle,
+.cid-uhYyTt2U02 .mbr-text {
+  text-align: center;
+}
 .cid-u1ZbF02Thh {
   padding-top: 2rem;
   padding-bottom: 2rem;
